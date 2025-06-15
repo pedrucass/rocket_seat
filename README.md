@@ -18,7 +18,7 @@ Projeto promovido pela Rocketseat para aprendizados.
 </p>
 
 <p align="center">
-  <img alt="Imagem do projeto no mobile" src="/assets/mobile.png" width="100%">
+  <img alt="Imagem do projeto no mobile" src="/assets/mobile.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
