@@ -14,7 +14,11 @@ Projeto promovido pela Rocketseat para aprendizados.
 <p>Projeto apresentado pelo desktop.<p>
 
 <p align="center">
-  <img alt="Imagem do projeto no desktop" src="/assets/desktop.png" width="50%">
+  <img alt="Imagem do projeto no desktop" src="/assets/desktop.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Imagem do projeto no mobile" src="/assets/mobile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
