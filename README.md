@@ -13,7 +13,9 @@ Projeto promovido pela Rocketseat com o objetivo de aprendizagem.
 <p align= "center"><p>
 
 <p align="center">
-  <img alt="Imagem do projeto no mobile" src="/assets/mobile.png" width="50%">
+  <img alt="Imagem do projeto no mobile" src="/assets/mobile.png" 
+  heigth="30%"
+  width="50%">
 </p>
 
 ## 🚀 Tecnologias
