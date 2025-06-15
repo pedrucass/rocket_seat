@@ -4,8 +4,9 @@
 Projeto promovido pela Rocketseat com o objetivo de aprendizagem.
 </p>
 
-
-<a align= "center" href="https://pedrucass.github.io/rocket_seat/" target="blank">Clique aqui para acessar o projeto.</a>
+<p align= "center">
+<a href="https://pedrucass.github.io/rocket_seat/" target="blank">Clique aqui para acessar o projeto.</a>
+</p>
 
 <p align= "center"><p>
 
