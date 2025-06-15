@@ -11,10 +11,10 @@ Projeto promovido pela Rocketseat para aprendizados.
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
+<p>Projeto apresentado pelo desktop.<p>
 
 <p align="center">
-  <img alt="Imagem do projeto no desktop" src="/assets/desktop.png" width="100%">
+  <img alt="Imagem do projeto no desktop" src="/assets/desktop.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
